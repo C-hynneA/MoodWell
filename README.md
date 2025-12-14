@@ -74,7 +74,20 @@ Try-catch blocks are used to handle invalid numeric input from users. This preve
 
 ## 6. Sample Output
 When the program runs, the user is first shown an **Account Menu** in the console. After logging in, the **Main Menu** allows users to add entries, view entries, search records, and view statistics related to mood, sleep, and stress levels.
-![Create Account](screenshots/1.png)
+-Create Account
+![Create Account](screenshot/1.png)
+-Log In
+![Log In](screenshot/2.png)
+-Main Menu
+![Main Menu](screenshot/3.png)
+-Entries
+![Entries](screenshot/4.png)
+-Entries
+![Entries](screenshot/5.png)
+-Entries
+![Entries](screenshot/6.png)
+-Log Out
+![Log Out](screenshot/7.png)
 
 ---
 
@@ -86,9 +99,18 @@ When the program runs, the user is first shown an **Account Menu** in the consol
 - Vargas, Chynne Andrea B.  
 
 ### Acknowledgement
-We would like to sincerely thank God for His guidance throughout this semester. We are grateful to our instructor, **Sir Juriel Comia**, for his patience, knowledge, and encouragement in teaching Java programming. We also thank our class adviser, **Ma’am Glydel Ann Reyes**, for her continuous support and guidance.
+We would like to sincerely thank God for His constant guidance and presence throughout this semester. He has given us the strength, patience, and wisdom to overcome the challenges we faced while working on our Final Project. We are truly grateful for His blessings that have guided us from start to finish in this journey.
 
-We extend our gratitude to our parents for their unwavering support and encouragement, and to our friends—Krizea Gabrielle, Kyla Marie, Leann Kirsten, Rhizel Kristine, Jouana Joy, and Joshua Vincent—for their motivation and companionship throughout the project.
+We also want to express our heartfelt gratitude to our instructor, Sir Juriel Comia, for sharing his knowledge, expertise, and valuable insights in programming, particularly in Java. Your patience, guidance, and encouragement have helped us improve our skills and understanding, and we are thankful for the time and effort you dedicated to teaching us.
+
+We extend our special thanks to our Class Adviser, Ma’am Glydel Ann Reyes, for always being there for us. Your support, reminders, and advice have guided us in staying on track and motivated, and we are very grateful for your care and concern throughout the semester.
+
+We would also like to thank our parents for their unwavering love, understanding, and support. Your encouragement, sacrifices, and belief in us have been our source of strength and motivation to keep moving forward and do our best in all our endeavors.
+
+Lastly, we want to acknowledge our friends—Krizea Gabrielle, Kyla Marie, Leann Kirsten, Rhizel Kristine, Jouana Joy, and Joshua Vincent—for being with us every step of the way. Your laughter, encouragement, and support have made this semester more fun and bearable. Working on this project together has been a memorable experience because of you all.
+
+To everyone who has guided, supported, and encouraged us, we sincerely thank you. This Final Project would not have been possible without your help, and we will always be grateful for your role in our journey.
+
 
 ---
 
