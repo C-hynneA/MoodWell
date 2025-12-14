@@ -80,9 +80,15 @@ public class MainMenu {
             String choice = sc.nextLine();
 
             switch (choice) {
-                case "1": addMoodEntry(); break;
-                case "2": addSleepEntry(); break;
-                case "3": addStressEntry(); break;
+                case "1": 
+                    addMoodEntry(); 
+                    break;
+                case "2": 
+                    addSleepEntry(); 
+                    break;
+                case "3": 
+                    addStressEntry(); 
+                    break;
                 case "4":
                     System.out.println("\tReturning to Main Menu...\n");
                     return;
@@ -242,3 +248,4 @@ public class MainMenu {
         System.out.println();
     }
 }
+
