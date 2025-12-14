@@ -74,18 +74,25 @@ Try-catch blocks are used to handle invalid numeric input from users. This preve
 
 ## 6. Sample Output
 When the program runs, the user is first shown an **Account Menu** in the console. After logging in, the **Main Menu** allows users to add entries, view entries, search records, and view statistics related to mood, sleep, and stress levels.
+
 -Create Account
 ![Create Account](screenshot/1.png)
+
 -Log In
 ![Log In](screenshot/2.png)
+
 -Main Menu
 ![Main Menu](screenshot/3.png)
+
 -Entries
 ![Entries](screenshot/4.png)
+
 -Entries
 ![Entries](screenshot/5.png)
+
 -Entries
 ![Entries](screenshot/6.png)
+
 -Log Out
 ![Log Out](screenshot/7.png)
 
