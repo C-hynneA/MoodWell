@@ -122,5 +122,6 @@ To everyone who has guided, supported, and encouraged us, we sincerely thank you
 - Customizable motivational quotes and wellness tips  
 - Export options for data (PDF or CSV)  
 - Multi-user support with separate profiles  
-- Mobile-friendly or web-based version  
+- Mobile-friendly or web-based version
+- Use a database for better storing of data or to actually save data inputs.
 
